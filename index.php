@@ -2,7 +2,7 @@
 <html lang="en" and dir = "ltr">
     <head>
         <meta charset="utf-8">
-        <title> BikerConsole </title>
+        <title> Car Selling </title>
         <link rel = "stylesheet" href = "style1.css">
     </head>
     <body>
